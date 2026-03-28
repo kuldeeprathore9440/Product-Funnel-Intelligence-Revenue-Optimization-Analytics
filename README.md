@@ -139,41 +139,21 @@ product improvements can increase revenue.
 
 <h2>📷 Dashboard Preview</h2>
 
-<h3>Overview Dashboard</h3>
+<h3>Overview Funnel Analysis</h3>
 <img src="Images/Funnel-Overview.png" width="100%"/>
 
-<h3>Funnel Analysis</h3>
+<h3>Revenue Insights</h3>
 <img src="Images/Revenue-&-Business-Impact.png" width="100%"/>
 
-<h3>Revenue Insights</h3>
-<img src="Images/image-3.png" width="100%"/>
+h3>Funnel Analysis</h3>
+<img src="Images/Segment-Analysis.png" width="100%"/>
 
 <h3>User Journey Analysis</h3>
-<img src="Images/image-4.png" width="100%"/>
+<img src="Images/User-Journey-Analysis.png" width="100%"/>
 
 <hr>
 
 <h2>📂 Project Structure</h2>
-
-<pre>
-project/
-│
-├── data/
-│   ├── users.csv
-│   ├── events.csv
-│   └── orders.csv
-│
-├── dashboard/
-│   └── Funnel Dashboard.pbix
-│
-├── Images/
-│   ├── image-1.png
-│   ├── image-2.png
-│   ├── image-3.png
-│   └── image-4.png
-│
-└── README.md
-</pre>
 
 <hr>
 
