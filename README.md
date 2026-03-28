@@ -139,7 +139,7 @@ product improvements can increase revenue.
 
 <h2>📷 Dashboard Preview</h2>
 
-<h3>Overview Funnel Analysis</h3>
+<h3>Funnel Analysis</h3>
 <img src="Images/Funnel-Overview.png" width="100%"/>
 
 <h3>Revenue Insights</h3>
@@ -180,9 +180,6 @@ Revenue Increase:
 <h2>👨‍💻 Author</h2>
 
 <b>Kuldeep Rathore</b>
-
-<br><br>
-
 <a href="https://www.linkedin.com/in/kuldeeprathore9440">
 LinkedIn Profile
 </a>
