@@ -145,7 +145,7 @@ product improvements can increase revenue.
 <h3>Revenue Insights</h3>
 <img src="Images/Revenue-&-Business-Impact.png" width="100%"/>
 
-h3>Funnel Analysis</h3>
+<h3>Segment Analysis</h3>
 <img src="Images/Segment-Analysis.png" width="100%"/>
 
 <h3>User Journey Analysis</h3>
