@@ -186,15 +186,7 @@ significant revenue growth.
 
 <hr>
 
-<h2>📂 Project Structure</h2>
-
-<pre>
-product-funnel-intelligence
-<pre>
-
-<hr>
-
-<h2>👨‍💻 Author</h2>
+<h1>👨‍💻 Author</h1>
 
 <b>Kuldeep Rathore</b><br>
 <a href="https://www.linkedin.com/in/kuldeeprathore9440">
@@ -202,7 +194,3 @@ LinkedIn Profile
 </a>
 
 <hr>
-
-<p align="center">
-⭐ If you like this project, give it a star!
-</p>
